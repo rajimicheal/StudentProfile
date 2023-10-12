@@ -1,0 +1,41 @@
+
+
+https://nicholasacademy.com/kidstemplate/index.html
+
+
+HTML Formatting Elements
+Formatting elements were designed to display special types of text:
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
+
+
+
+q
+address
+<address>
+Written by John Doe.<br> 
+Visit us at:<br>
+Example.com<br>
+Box 564, Disneyland<br>
+USA
+</address>
+
+
+<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+
+
+
+baba addini
+https://www.freesoftwarefiles.com/processing-download-request-2023/
+
+colors.
